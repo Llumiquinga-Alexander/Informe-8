@@ -274,13 +274,16 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 ![](
 
-VIDEO
+Video
 
 5485858
 
-CONCLUSIONES
+Conclusiones
 
 En un circuito RC la relación entre las corrientes y los voltajes se da cuando: la corriente que pasa por medio de un resistor está en fase con el voltaje, por otro lado, cuando la corriente pasa por un capacitor aparece adelantada en 90 grados con respecto al voltaje.
 
 Para realizar el análisis de un circuito RL con dos conjuntos de componentes en paralelo se debe seguir lo siguiente: primero expresar cada impedancia de rama en forma rectangular y transformar cada una de estas impedancias a forma polar, a continuación, se debe calcular la corriente de rama mediante notación polar, por lo cual una vez calculadas las corrientes de rama, es posible encontrar la corriente total sumando las dos corrientes de rama en forma rectangular.
 
+Bibliografias
+
+(Floyd,T)(2007). Principios de circuitos eléctricos 8va edición. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
