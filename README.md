@@ -32,11 +32,7 @@ EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 
 2. Localice los siguientes números en el plano complejo:
 
-(a)+6 (b)-2 (c)+j3 (d)-j8
-
 ![](
-
-b
 
 ![](
 
