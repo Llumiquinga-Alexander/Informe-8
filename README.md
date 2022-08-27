@@ -22,6 +22,10 @@ Identificar la relación que existe entre las corrientes y los voltajes de un ci
 
 Márco teórico:
 
+![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/mapa%201.png)
+
+![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/mapa%202.png)
+
 ![](
 
 ![](
