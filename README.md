@@ -176,7 +176,7 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 2. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
 
-![](
+En el problema 1 I, VR, VL son ondas en formal sinusoidal
 
 4. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular
 
