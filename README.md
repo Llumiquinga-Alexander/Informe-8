@@ -68,15 +68,15 @@ EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/18.1.png)
 
-20. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
 
 Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuencia del voltaje a través de ambos elementos es la misma que la frecuencia de la fuente. Eso significa que la frecuencia del voltaje en la resistencia es de 8 KHz y la frecuencia del voltaje en el capacitor también es de 8 kHz.
 
-22. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
+22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/22.png)
 
-24. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
+24. Repita el problema 23 con C = 0.0047 μF.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/24.png)
 
@@ -102,7 +102,7 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/34.png)
 
-36. El circuito de retraso de la figura 15-91 también actúa como filtro pasa bajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+36. Repita el problema 34 para el circuito de adelanto de la figura 15-92.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/36.png)
 
@@ -110,7 +110,7 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 ![](
 
-40. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
+40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/40.png)
 
@@ -128,29 +128,29 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/46.png)
 
-48. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
+48. Determine el valor al cual R1 debe ser ajustado para obtener un ángulo de fase de 30° entre el voltaje de fuente y la corriente total en la figura 15-99.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/48.png)
 
-50. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje.
+50. ¿Es el circuito de la figura 15-100 predominantemente resistivo o predominantemente capacitivo?
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/50.png)
 
-52. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
+52. Para el circuito de la figura 15-101, determine lo siguiente:
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/52.png)
 
-54. Determine el valor de C2 en la figura 15-102 cuando VA = VB.
+54. Determine el voltaje y su ángulo de fase en cada punto rotulado en la figura 15-103
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/54.png)
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/54.1.png)
 
-56. Encuentre la corriente a través de cada componente en la figura 15-103.
+56. Trace el diagrama fasorial de voltaje y corriente para la figura 15-103.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/56.png)
 
-58. En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determinar la potencia aparente.
+58. En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/58.png)
 
@@ -158,111 +158,111 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 ![](
 
-62. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene una impedancia de 50 Ω y un factor de potencia de 0,85. La carga B tiene una impedancia de 72 Ω y un factor de potencia de 0,95
+62. Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de 0.0022 μF y todos los resistores de 10 kΩ.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/62.png)
 
-64. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
+64. El valor rms del voltaje de señal que sale del amplificador A en la figura 15-105 es de 50 mV. Si la resistencia de entrada al amplificador B es de 10 kΩ, ¿qué tanto de la señal se pierde debido al capacitor de acoplamiento cuando la frecuencia es de 3 kHz?
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/64.png)
 
-66. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kÆ y la frecuencia de 10 Hz.
+66. Los capacitores de la figura 15-107 han desarrollado una resistencia de fuga de 2 kΩ. Determine los voltajes de salida en esta condición para cada circuito.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/66.png)
 
-68. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
+68. Determine el voltaje de salida para el circuito de la figura 15-107(b) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta: 
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/68.png)
 
-2. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
+2. ¿Cuáles son las formas de onda de I, VR y VL en el problema 1?
 
 En el problema 1 I, VR, VL son ondas en formal sinusoidal
 
-4. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular
+4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%204.png)
 
-6. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia total:
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%206.png)
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%206.1.png)
 
-8. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+8. Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%208.png)
 
-10. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+10. Exprese la corriente en forma polar para cada circuito de la figura 16-54.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2010.png)
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2010.2.png)
 
-12. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+12. Exprese la corriente en forma polar para cada circuito de la figura 16-54.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2012.png)
 
-14. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+14. Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2014.png)
 
-16. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+16. Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2016.png)
 
-18. Para el circuito de retardo de la figura 16-61, determine el retardo de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+18. Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2018.png)
 
-20. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+20.	Repita el problema 19 para las siguientes frecuencias:
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2020.png)
 
-22. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+22. Encuentre la corriente total y cada corriente de rama en la figura 16-64. ?
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2022.png)
 
-24. Determine las siguientes cantidades en la figura 16-65:
+24. Repita el problema 23 para R = 56 Ω y L = 330 µH.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2024.png)
 
-26. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+26. Determine la magnitud y el ángulo de fase de la corriente total que aparece en la figura 16-67
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2026.png)
 
-28. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+28. ¿Es el circuito de la figura 16-68 predominantemente resistivo o predominantemente inductivo?
 
 ![](
 
-30. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+30. Para el circuito de la figura 16-69, determine lo siguiente:
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2030.png)
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2030.1.png)
 
-32. Para el circuito de la figura 16-70, determine lo siguiente:
+32. Trace el diagrama fasorial de los voltajes y las corrientes que aparecen en la figura 16-70.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2032.png)
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2032.1.png)
 
-34. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.
+34. Determine el desplazamiento de fase y la atenuación desde la entrada hasta la salida para la red en configuración de escalera de la figura 16-72.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2034.png)
 
-36. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+36. En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiva de 340 mVAR. ¿Cuál es la potencia aparente?
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2036.png)
 
-38. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+38. ¿Cuál es el factor de potencia en la figura 16-64?
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2038.png)
 
-40. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triangulo de potencia.
+40. Determine la potencia verdadera para el circuito de la figura 16-70.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2040.png)
 
-42. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+42. Con el mismo procedimiento del problema 41, trace la curva de respuesta para la figura 16-62.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2042.png)
 
