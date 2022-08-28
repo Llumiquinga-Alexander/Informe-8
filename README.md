@@ -106,10 +106,6 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/36.png)
 
-38. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de avance de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
-
-![](
-
 40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/40.png)
@@ -153,10 +149,6 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 58. En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/58.png)
-
-60. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
-
-![](
 
 62. Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de 0.0022 μF y todos los resistores de 10 kΩ.
 
@@ -230,10 +222,6 @@ En el problema 1 I, VR, VL son ondas en formal sinusoidal
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2026.png)
 
-28. ¿Es el circuito de la figura 16-68 predominantemente resistivo o predominantemente inductivo?
-
-![](
-
 30. Para el circuito de la figura 16-69, determine lo siguiente:
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2030.png)
@@ -270,13 +258,10 @@ En el problema 1 I, VR, VL son ondas en formal sinusoidal
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-8/blob/main/el%2044.png)
 
-46. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
-
-![](
 
 Video
 
-5485858
+
 
 Conclusiones
 
