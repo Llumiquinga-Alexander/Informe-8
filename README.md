@@ -261,7 +261,7 @@ En el problema 1 I, VR, VL son ondas en formal sinusoidal
 
 Video
 
-
+https://youtu.be/OOlrje__rO0
 
 Conclusiones
 
